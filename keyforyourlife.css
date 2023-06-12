@@ -27,12 +27,12 @@ p{
 }
 .photo:nth-child(2){
     height: 70px;
-    background: url(https://sujalg1309.github.io/Keyforyourlife/Sujal1.png);
+    background: url(https://sujalg1309.github.io/Keyforyourlife/Sujal2.png);
     background-size: cover;
 }
 .photo:nth-child(3){
     height: 60px;
-    background: url(https://sujalg1309.github.io/Keyforyourlife/Sujal1.png);
+    background: url(https://sujalg1309.github.io/Keyforyourlife/Sujal3.png);
     background-size: cover;
 }
 .photo:hover{
