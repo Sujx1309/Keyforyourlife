@@ -21,18 +21,18 @@ p{
     max-width: 3000px;
     height: 50px;
     margin: 20px;
-    background: url("/photo/Sujal1.png");
+    background: url(https://sujalg1309.github.io/Keyforyourlife/Sujal1.png);
     background-size: cover;
     transition: height 3s;
 }
 .photo:nth-child(2){
     height: 70px;
-    background: url("/photo/Sujal2.png");
+    background: url(https://sujalg1309.github.io/Keyforyourlife/Sujal1.png);
     background-size: cover;
 }
 .photo:nth-child(3){
     height: 60px;
-    background: url("/photo/Sujal3.png");
+    background: url(https://sujalg1309.github.io/Keyforyourlife/Sujal1.png);
     background-size: cover;
 }
 .photo:hover{
