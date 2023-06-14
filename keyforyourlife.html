@@ -51,5 +51,12 @@
                 });
             });
         </script>
+        <script>
+            document.addEventListener("dblclick", () => {
+                document.documentElement.requestFullscreen().catch(e) => {
+                console.log(e);
+            });
+          });
+        </script>
     </body>
 </html>
